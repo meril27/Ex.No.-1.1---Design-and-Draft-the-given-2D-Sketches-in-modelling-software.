@@ -1,8 +1,6 @@
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
-Name : MERIL GOLDLINA A
-
-Ref No: 244007299
+Name : MERIL GOLDLINA A  Ref No: 244007299
 
 ## AIM
 
